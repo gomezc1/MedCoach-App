@@ -1,4 +1,4 @@
-# MedCoach-App
+# MedCoach-App 💊
 Group Project Underconstruction
 
 -Architecture diagrams stage(almost done)
@@ -7,4 +7,4 @@ Group Project Underconstruction
 
 -API(in the works)
 
--Meeting midweek
+
