@@ -6,8 +6,14 @@ Group Project Underconstruction
 
 -Architecture diagrams stage(almost done)
 
--UX/UI (in the works)
+-UX/UI (me)
 
 -API(in the works)
+
+-Run on a device
+
+-Backend(me)
+
+-Sub end of sem.
 
 
