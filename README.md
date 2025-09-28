@@ -14,6 +14,6 @@ Group Project Underconstruction
 
 -Backend(me)
 
--Sub end of sem.
+-Submit in Dec.
 
 
