@@ -1,4 +1,5 @@
-# MedCoach-App 💊
+# ⚕️MedCoach-App⚕️
+
 Group Project Underconstruction
 
 -Architecture diagrams stage(almost done)
