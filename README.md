@@ -4,16 +4,22 @@ Group Project Underconstruction
 
 -Med.Scale
 
--Architecture diagrams stage(almost done)
+-Architecture diagrams stage(SEng in prog.)
 
 -UX/UI (me)
 
--API(in the works)
+-FE(other Eng)
 
--Run on a device
+-API(other Eng???/tbd)
 
--Backend(me)
+-Run on a device (tbd)
+
+-DB(tbd)
+
+-Backend(Me&SEng)
+
+-git & copilot
+
+-other stuff(tbd in meeting)
 
 -Submit in Dec.
-
-
