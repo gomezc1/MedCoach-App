@@ -4,13 +4,13 @@ Group Project Underconstruction
 
 -Med.Scale
 
--Architecture diagrams stage(SEng in prog.)
+-Architecture diagrams stage (SEng in prog.)
 
 -UX/UI (me)
 
 -FE(other Eng)
 
--API(other Eng???/tbd)
+-APIs(other Eng???/tbd)
 
 -Run on a device (tbd)
 
