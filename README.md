@@ -4,7 +4,9 @@ Group Project Underconstruction
 
 -Med.Scale
 
--Architecture diagrams stage (SEng in prog.)
+-Architecture diagrams stage (SEng/Done?)
+
+-ERD(Done)
 
 -UX/UI (me)
 
